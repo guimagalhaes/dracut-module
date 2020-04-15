@@ -1,4 +1,4 @@
-# Using Dracut do customize an initramfs image
+# Using Dracut to customize an initramfs image
 
 Check these scripts and comments below as a tutorial about how to add Dracut modules or how to add configuration steps, binaries and hook scripts to initramfs images.
 
